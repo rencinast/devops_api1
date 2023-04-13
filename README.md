@@ -11,4 +11,4 @@ cambio 3
 
 otro cambio mas
 
-el cha estuvo ahquí
+el cha estuvo aquí x2
